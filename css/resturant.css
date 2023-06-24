@@ -1,0 +1,24 @@
+.mmm .W{
+    padding: 50;
+    font-size: 50px;
+    color: red;
+}
+
+table{
+    color:black;
+    font-size: 49px;
+    text-align: center;
+
+}
+
+p{
+    font-size: 50px;
+    color: red;
+}
+div{
+    background-image: url("../css/080f70c1ae6fc9f9830df38071af8a6d.jpg");
+
+    background-size: cover;
+    text-align: center;
+}
+
